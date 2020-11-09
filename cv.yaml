@@ -8,7 +8,7 @@ src: https://github.com/std145288/std145288.github.io
 url: "std145288.github.io"
 social:
   github: https://github.com/std145288
-  facebook: myFacebook
+  #facebook: myFacebook
   # Erdős  number is at most 4.
 # (Brandon Amos -> Layne Watson -> Leroy Kelly -> Zoltán Füredi -> Paul Erdős )
 
