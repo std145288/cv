@@ -8,6 +8,7 @@ src: https://github.com/std145288/std145288.github.io
 url: "std145288.github.io"
 social:
   github: https://github.com/std145288
+  linkedin: ioannis_niaoustas
   #facebook: myFacebook
   # Erdős  number is at most 4.
 # (Brandon Amos -> Layne Watson -> Leroy Kelly -> Zoltán Füredi -> Paul Erdős )
@@ -37,33 +38,26 @@ order:
 #  - [activities, Activities]
 
 about: '
-  
-   I'm a <b>Civil Infrastructure Engineer</b> and working as <b>Head Survey Engineer</b> in a technical office of Rural & Surveying Consultant Engineers.<br>
+ I'm a <b>Civil Infrastructure Engineer</b> and working as <b>Head Survey Engineer</b> in a technical office of Rural & Surveying Consultant Engineers.<br>
  I always had a passion about computers and informatics and finally on July 2019 i obtained my <b>BSc in Computer Science</b>.<br>
  My desire to expand my knowledge in CS, has led me to follow the <b>MSc course in "Pervasive and Mobile Computing Systems"</b> of <b>Hellenic Open University.
-  <br><br>'
+ <br><br>'
 
 education:
   - school: Hellenic Open University
     location: Patras
     degree: MSc in Pervasive and Mobile Computing Systems
     dates: Oct 2019 -- Present
-    #overallGPA: 0.00/0.00
-
+    
   - school: Hellenic Open University
     location: Patras
     degree: BSc in Computer Science
     dates: Oct 2014 -- Jul 2019
-    #overallGPA: 0.00/0.00
-
+    
   - school: ATEI Patras
     location: Patras
     degree: BEng in Civil Infrastructure Engineering
-    # degree: B.S., Computer Science, Honors Scholar
     dates: Oct 1997 -- Jun 2004
-    #overallGPA: 3.99/4.00
-    #majorGPA: 4.00/4.00
-    
 
 industry:
   - place: Rural & Surveying Consultant Engineers
@@ -86,4 +80,3 @@ skills:
     details: AutoDesk AutoCAD, AutoDesk Civil3D, AutoDesk RasterDesign, Microsoft Office
   - title: Systems
     details: Windows
-
