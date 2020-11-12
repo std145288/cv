@@ -7,7 +7,7 @@ pdf: /data/cv.pdf
 src: https://github.com/std145288/cv
 url: "std145288.github.io"
 social:
-  github: https://github.com/std145288
+  github: std145288
   linkedin: ioannis_niaoustas
   #facebook: myFacebook
   # Erdős  number is at most 4.
